@@ -1,0 +1,10 @@
+levenshtein
+distanc
+calcul
+example:fast
+cat
+cat
+dog
+string
+string
+distanc

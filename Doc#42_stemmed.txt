@@ -1,0 +1,4 @@
+magic
+show
+titl
+brown	beige	tan	aubur
